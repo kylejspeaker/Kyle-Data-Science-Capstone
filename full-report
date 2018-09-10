@@ -1,0 +1,33 @@
+Improving the Walkability of Downtown Lancaster, PA
+
+Introduction/Business Problem
+
+Lancaster, PA is undergoing a revitalization of its downtown area, with a goal of increasing its "walkability" (how friendly an area is to walking) in order to improve its appeal to visitors and residents.
+
+In order to do this, the city council wishes to increase the number of businesses in the downtown area. To do this, they would like to present grants to those that would start businesses in specific areas, but first it must be able to identify them.
+
+The goal of the city council with this project is to determine where businesses should be started to improve walkability in the downtown area without impeding existing businesses.
+
+Data Section
+
+To achieve this goal, we will be using venue information available through the FourSquare API.
+
+Methodology Section
+
+In order to achieve this goal, the following process was followed:
+
+1. Business information was gathered for the city using the FourSquare API.
+2. The businesses were clustered based on their location on the map
+3. Areas without strong clusters were defined and reported
+
+Results Section
+
+The resulting clusters show a gap in the area marked by Chestnut at its north, Orange at its south, and Marietta at its east. Several other areas showed a reasonable gap in businesses, but were exclued due to a lack of information for businesses in those sectors.
+
+Discussion Section
+
+The results show an area of roughly 12 city blocks that is underutilized when it comes to business development. This area could benefit from several new businesses without interfering with those that currently exist in the area. 
+
+Conclusion Section
+
+In order to improve walkability in the downtown Lancaster, PA area, the city council should push for the creation of businesses in the area defined above.
