@@ -1,0 +1,5 @@
+Data
+
+To create the list of the top 10 business gaps in the city, we will be utilizing two sources of data: Business location data and category types from the FourSquare API, and a spreadsheet determining which categories are considered "walkable".
+
+Using these data sources we will find which business types that are "walkable" are most commonly found near each other, and then use that information to provide a list of which businesses are missing there correlated counterparts.
